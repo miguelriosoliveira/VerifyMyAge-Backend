@@ -9,6 +9,6 @@ This REST API provides the main functions for a CRUD of Users (name, age, email,
 ├── Display of a single user<br/>
 ├── Creation of an user<br/>
 ├── Update of an user<br/>
-├── User can change his/her password (if<br/> he/she remembers his old password)<br/>
+├── User can change his/her password (if he/she remembers his old password)<br/>
 └── Deletes an user
 
