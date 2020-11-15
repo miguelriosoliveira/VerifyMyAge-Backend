@@ -32,3 +32,9 @@ This REST API provides the main functions for a CRUD of Users (name, age, email,
 	yarn
 	yarn dev
 	```
+
+1. To run tests
+
+	```shell
+	yarn test
+	```
