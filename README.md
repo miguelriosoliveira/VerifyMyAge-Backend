@@ -16,7 +16,7 @@ This REST API provides the main functions for a CRUD of Users (name, age, email,
 
 1. Create a `.env` file based on the `.env.sample`:
 
-	```shell
+	```
 	cp .env.sample .env
 	```
 
@@ -28,13 +28,13 @@ This REST API provides the main functions for a CRUD of Users (name, age, email,
 	```
 
 1. Install dependencies and run the server!
-	```shell
+	```
 	yarn
 	yarn dev
 	```
 
 1. To run tests
 
-	```shell
+	```
 	yarn test
 	```
